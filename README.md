@@ -1,7 +1,7 @@
 # **Handwritten Digit Recognition on MNIST Dataset using CNN**
 The model consists of as follows:
 _________________________________________________________________
- Layer (type)                Output Shape              Param #   
+ Layer (type)                Output Shape              Param   
 =================================================================
  conv2d_2 (Conv2D)           (None, 26, 26, 8)         80        
                                                                  
